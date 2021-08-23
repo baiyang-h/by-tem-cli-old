@@ -1,13 +1,13 @@
-const basePath = 'direct:http://github.com/visitor-h/r-templates'
+const basePath = 'baiyang-h/r-templates'
 // https://github.com/visitor-h/r-templates/tree/master/Drawer
 module.exports = [
   {
     name: 'List',
-    path: `${basePath}/Drawer`,
+    path: `${basePath}/List`,
   },
   {
     name: 'Drawer',
-    path: `${basePath}`,
+    path: `${basePath}/Drawer`,
   },
   {
     name: 'Form',

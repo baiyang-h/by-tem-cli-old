@@ -1,5 +1,5 @@
 {
-  "name": "by-tem-cli",
+  "name": "by-tem-cli-old",
   "version": "1.0.0",
   "description": "基础模板",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "by": "./bin/cli.js"
+    "bytest": "./bin/cli.js"
   },
   "author": "by",
   "license": "ISC",
